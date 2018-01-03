@@ -1,0 +1,13 @@
+language: python
+python: "3.6"
+
+install:
+    - pip install -r requirements.txt
+
+script:
+    - python -m unittest discover
+
+notifications:
+    email:
+        on_success: never
+        on_failure: always
