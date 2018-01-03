@@ -144,7 +144,7 @@ Fake Logs is [MIT licensed](./LICENSE).
 [lighttpd]:   https://redmine.lighttpd.net/projects/1/wiki/Docs_ModAccesslog
 
 [//]: # (Badges)
-[build]:       https://travis-ci.org/s4tori/fake-logs-test.svg?branch=master
-[build-url]:   https://travis-ci.org/s4tori/fake-logs-test
+[build]:       https://travis-ci.org/s4tori/fake-logs.svg?branch=master
+[build-url]:   https://travis-ci.org/s4tori/fake-logs
 [license]:     https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: ./LICENSE
