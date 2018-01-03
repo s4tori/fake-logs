@@ -1,5 +1,9 @@
 <div align="center">
 	<h1>Python Fake Logs</h1>
+
+[![license][license]][license-url]
+[![build][build]][build-url]
+<br /><br />
 </div>
 
 This script generates fake logs in various formats ([ELF][elf], [CLF][clf]).
@@ -138,3 +142,9 @@ Fake Logs is [MIT licensed](./LICENSE).
 [nginx]:     http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format
 [goaccess]:   https://goaccess.io/man#custom-log
 [lighttpd]:   https://redmine.lighttpd.net/projects/1/wiki/Docs_ModAccesslog
+
+[//]: # (Badges)
+[build]:       https://travis-ci.org/s4tori/fake-logs-test.svg?branch=master
+[build-url]:   https://travis-ci.org/s4tori/fake-logs-test
+[license]:     https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: ./LICENSE
